@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://phungnguyenyuumy.blogspot.com/#';
+	var url_popup = 'https://www.facebook.com/LATA-Qu%E1%BA%ADn3-1342963692443775';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
