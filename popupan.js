@@ -2,7 +2,7 @@
 	var url_popup = 'https://www.facebook.com/LATA-Qu%E1%BA%ADn3-1342963692443775';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://www.facebook.com/LATA-Qu%E1%BA%ADn3-1342963692443775';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
